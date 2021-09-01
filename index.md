@@ -168,13 +168,13 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
   <div class="col-md-6">
     <h3>Day 1, {{day1}}, {{page.humantime}} {{page.timezone}}</h3>
     <table class="table table-striped">
-      <tr> <td><a href="https://datacarpentry.org/spreadsheet-ecology-lesson/">Data Organisation in Spreadsheets Best Practice</a></td> </tr>
+      <tr> <td><a href="https://datacarpentry.github.io/spreadsheets-socialsci/">Data Organisation in Spreadsheets Best Practice</a></td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 2, {{day2}}, {{page.humantime}} {{page.timezone}}</h3>
     <table class="table table-striped">
-      <tr> <td><a href="https://datacarpentry.org/OpenRefine-ecology-lesson/" target="_blank">Data Cleaning with OpenRefine</a></td> </tr>
+      <tr> <td><a href="https://datacarpentry.github.io/openrefine-socialsci/" target="_blank">Data Cleaning with OpenRefine</a></td> </tr>
     </table>
   </div>
 </div>
@@ -182,13 +182,13 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
     <div class="col-md-6">
     <h3>Day 3, {{day3}}, {{page.humantime}} {{page.timezone}}</h3>
     <table class="table table-striped">
-      <tr> <td><a href="https://datacarpentry.org/R-ecology-lesson/" target="_blank">Data Analysis and Visualisation in R - Part 1</a></td> </tr>
+      <tr> <td><a href="https://datacarpentry.github.io/r-socialsci" target="_blank">Data Analysis and Visualisation in R - Part 1</a></td> </tr>
     </table>
   </div>
   <div class="col-md-6">
       <h3>Day 4, {{day4}}, {{page.humantime}} {{page.timezone}}</h3>
       <table class="table table-striped">
-        <tr> <td><a href="https://datacarpentry.org/R-ecology-lesson/" target="_blank">Data Analysis and Visualisation in R - Part 2</a></td> </tr>
+        <tr> <td><a href="https://datacarpentry.github.io/r-socialsci" target="_blank">Data Analysis and Visualisation in R - Part 2</a></td> </tr>
       </table>
   </div>
 </div>
