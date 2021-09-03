@@ -230,7 +230,7 @@ please preview your site before committing, and make sure to run
 <h3>Installation instructions</h3>
 <p>
   To participate in this workshop,
-  you will need to install <strong>all of the software described below before coming to the workshop</strong>. We will run a pre-workshop installation session to help everyone set up and make sure they have the required software installed.
+  you will need to install a spreadsheet program, OpenRefine and RStudio as described at the <a href="https://datacarpentry.org/socialsci-workshop/setup-r-workshop.html">setup instructions for social sciences Data Carpentry workshops</a>.
 </p>
 
 {% if site.carpentry == "swc" %}
